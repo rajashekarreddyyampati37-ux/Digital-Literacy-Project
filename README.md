@@ -4,8 +4,8 @@ Digital-literacy-project:
 This project is part of the CSE0001 Digital Literacy course. It focuses on developing digital awareness, practical skills, and responsible use of technology.
 
 Student Profile
-- Name: Polisetty Harsha SivaRama Kumar Guptha
-- Registration Number: 25MIM10039
+- Name: YAMPATI RAJASHEKAR REDDY
+- Registration Number: 25MIM10142
 - Program: First-Year, INT MTECH AI
 - University: VIT Bhopal University
 
