@@ -35,7 +35,7 @@ report/
 - Contains the final, consolidated Project Report summarizing my findings and reflections across all tasks.
 
 Important Links
-- Digital Literacy Awareness Quiz:
+- Digital Literacy Awareness Quiz:https://docs.google.com/forms/d/1bIXp7GXso2yA7GDxUT7SU0gurbmMJgCyf6cJwlBQ5MI/edit
 - My LinkedIn Profile:https://www.linkedin.com/in/yampati-rajashekar-reddy-94711a3a9/
   
 Tools and Platforms Used:
